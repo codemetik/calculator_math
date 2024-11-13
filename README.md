@@ -8,6 +8,21 @@
 4. Selanjutnya didalam folder project buatlah sebuah file bernama index.html
 5. berikut langkah-langkahnya :
    ## Buat struktur HTML dasar 
+   ```html
+   <!DOCTYPE html>
+   <html>
+   <head>
+   	<meta charset="utf-8">
+   	<meta name="viewport" content="width=device-width, initial-scale=1">
+   	<title>Kalkulator Sederhana</title>
+   	<script type="text/javascript" src="math.js"></script>
+   	<script type="text/javascript" src="math.min.js"></script>
+   </head>
+   <body>
+   
+   </body>
+   </html>
+   ```
    ## Sertakan file math.js dan math.min.js ke dalam elemen `<head>di bawah tag <title>Judul</title></head>`
    ## Buatlah struktur table di antara tag `<body></body>` untuk menampilkan tombol-tombol kalkulator
    ## Styling element table agar menarik dengan CSS secara internal.
