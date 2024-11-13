@@ -1,4 +1,5 @@
-# Membuat kalkulator Sederhana dengan HTML dan Javascript
+# Membuat kalkulator Sederhana
+# HTML dan Javascript
 
 1. Buat folder project terlebih dulu.
 2. Download 2 file yg dibutuhkan yaitu :
