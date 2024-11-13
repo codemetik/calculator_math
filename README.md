@@ -1,5 +1,7 @@
 # Membuat kalkulator Sederhana dengan HTML dan Javascript
 
+![kalkulator sederhana](https://github.com/user-attachments/assets/2f6197e1-cf17-4267-934c-7757c37907ea)
+
 1. Buat folder project terlebih dulu.
 2. Download 2 file yg dibutuhkan yaitu :
    <a href="https://github.com/codemetik/calculator_math/blob/main/math.js">math.js</a>
