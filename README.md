@@ -96,7 +96,7 @@
 	</style>
    ```
    ## Selanjutnya terapkan kode javascript berikut di bawah struktur elemen table.
-   ```javascript
+   ```js
    <script type="text/javascript">
 		//fungsi untuk tampilan operasi
 		function dis(val){
