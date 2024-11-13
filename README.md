@@ -10,8 +10,8 @@
    ## Buat struktur HTML dasar 
    ## Sertakan file math.js dan math.min.js ke dalam elemen `<head>di bawah tag <title>Judul</title></head>`
    ## Buatlah struktur table di antara tag `<body></body>` untuk menampilkan tombol-tombol kalkulator
-   ## Styling element table agar menarik dengan CSS internal atau external.
+   ## Styling element table agar menarik dengan CSS secara internal.
    ## Selanjutnya terapkan kode javascript berikut di bawah struktur elemen table.
-   ## Refresh web rpoject nya.
+   ## Refresh web project nya.
    ## Selesai.
  
