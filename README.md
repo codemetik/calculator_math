@@ -1,4 +1,4 @@
-# Membuat kalkulator Sederhana dengan HTML dan Javascript
+# Membuat kalkulator Sederhana dengan HTML, CSS dan Javascript
 
 ![kalkulator sederhana](https://github.com/user-attachments/assets/2f6197e1-cf17-4267-934c-7757c37907ea)
 
